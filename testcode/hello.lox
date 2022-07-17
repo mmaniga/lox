@@ -1,0 +1,7 @@
+var language = "lox";
+print "Hello World";
+var endOfCondition = true;
+
+while(!endOfCondition){
+    print "Hello I am in loop...";
+}

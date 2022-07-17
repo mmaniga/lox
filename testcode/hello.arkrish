@@ -1,0 +1,13 @@
+print "I am Arkrish"
+var name = "Arkrish";
+var condition = false;
+
+test("Mani");
+
+while(true) {
+ print name;
+}
+
+func test(String a) {
+  return "Mani";
+}
